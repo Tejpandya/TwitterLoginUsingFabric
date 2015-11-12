@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\kundan\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="F:\myandroidnewthings\TwiterLogin\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-99e94c646c41a5c67e2e403c1c936af54202c57e.jar" />
+    </item>
+    <item
+        jar="F:\myandroidnewthings\TwiterLogin\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="F:\myandroidnewthings\TwiterLogin\app\build\intermediates\pre-dexed\debug\classes-200d742d6eecba77f60a9c521b3bae76a1a08aed.jar" />
+    </item>
+    <item
+        jar="C:\Users\kundan\.gradle\caches\modules-2\files-2.1\com.twitter\twitter-text\1.13.0\78415b95ae3184c5926d593feab64bfc0b73b2dd\twitter-text-1.13.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="78415b95ae3184c5926d593feab64bfc0b73b2dd">
+        <dex dex="F:\myandroidnewthings\TwiterLogin\app\build\intermediates\pre-dexed\debug\twitter-text-1.13.0-770e12b343493bf66255341ebb0df71279a09a79.jar" />
+    </item>
+    <item
+        jar="F:\myandroidnewthings\TwiterLogin\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter\1.9.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d4f9c8eef6af6f5b470eeb39c8920fbd4603d17d">
+        <dex dex="F:\myandroidnewthings\TwiterLogin\app\build\intermediates\pre-dexed\debug\classes-ae0c5a023d166de9eba8e1125fa9e1956bcfbbfa.jar" />
+    </item>
+    <item
+        jar="F:\myandroidnewthings\TwiterLogin\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter-core\1.6.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e504c8aa8ed7601393305cd968f62f73c7a6283d">
+        <dex dex="F:\myandroidnewthings\TwiterLogin\app\build\intermediates\pre-dexed\debug\classes-f72f38bd570312315c423c966240f59f95187d46.jar" />
+    </item>
+    <item
+        jar="F:\myandroidnewthings\TwiterLogin\app\build\intermediates\exploded-aar\io.fabric.sdk.android\fabric\1.3.6\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fc82596d7f7683c8b3a7e5715a2ed5295c586887">
+        <dex dex="F:\myandroidnewthings\TwiterLogin\app\build\intermediates\pre-dexed\debug\classes-934d6cb86b405cb1b8f6dfd97424c78ae7275f34.jar" />
+    </item>
+    <item
+        jar="C:\Users\kundan\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="F:\myandroidnewthings\TwiterLogin\app\build\intermediates\pre-dexed\debug\gson-2.3-a1563a444406fd8dca279319f27b999d11fc4c7f.jar" />
+    </item>
+    <item
+        jar="F:\myandroidnewthings\TwiterLogin\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="F:\myandroidnewthings\TwiterLogin\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-e41a936efbf1cd7e78a220430303d9663e496e3a.jar" />
+    </item>
+    <item
+        jar="C:\Users\kundan\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.8.0\a517f29ed06be2b2879524fcd94b6e9b36e2e0b5\retrofit-1.8.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a517f29ed06be2b2879524fcd94b6e9b36e2e0b5">
+        <dex dex="F:\myandroidnewthings\TwiterLogin\app\build\intermediates\pre-dexed\debug\retrofit-1.8.0-5fd62ca828e39ab10069fc724e7482a51c07509c.jar" />
+    </item>
+    <item
+        jar="F:\myandroidnewthings\TwiterLogin\app\build\intermediates\exploded-aar\com.digits.sdk.android\digits\1.9.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c1995d11b1eab1ce4c4da136a6797cdfc8d15075">
+        <dex dex="F:\myandroidnewthings\TwiterLogin\app\build\intermediates\pre-dexed\debug\classes-3254dadac49bc027238b3c3a3de45f6306ecf659.jar" />
+    </item>
+    <item
+        jar="F:\myandroidnewthings\TwiterLogin\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-ui\1.6.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9a5d96f1608afeee7845b2f5774a150e0b438f0">
+        <dex dex="F:\myandroidnewthings\TwiterLogin\app\build\intermediates\pre-dexed\debug\classes-acbcc04276911153914ebaf1f032da2d72fc8f02.jar" />
+    </item>
+    <item
+        jar="D:\androidstudio\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="F:\myandroidnewthings\TwiterLogin\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-2557a973181b298b134efa5c183381f4be613bb5.jar" />
+    </item>
+    <item
+        jar="F:\myandroidnewthings\TwiterLogin\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-composer\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ec69f9e7e18a05a46b4fcaa69368b6d42fa6324">
+        <dex dex="F:\myandroidnewthings\TwiterLogin\app\build\intermediates\pre-dexed\debug\classes-d1ac771f9873385746c5d0e17fbd61d07f598677.jar" />
+    </item>
+    <item
+        jar="F:\myandroidnewthings\TwiterLogin\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="F:\myandroidnewthings\TwiterLogin\app\build\intermediates\pre-dexed\debug\classes-e66b9174da3fd7813f75cd1c3375fe73f0e6ca6f.jar" />
+    </item>
+
+</items>
